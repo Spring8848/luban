@@ -1,2 +1,1 @@
-this is luban git demo project
-read to commit
+his is luban git demo project
